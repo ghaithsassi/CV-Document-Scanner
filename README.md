@@ -2,4 +2,4 @@
 
 This is a sample document scanner project
 
-![](document_scanner.png)
+![](document_scanner.PNG)
